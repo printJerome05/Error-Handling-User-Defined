@@ -1,0 +1,10 @@
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\bin\Debug\ErrorHandlingUserDefined.exe.config
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\bin\Debug\ErrorHandlingUserDefined.exe
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\bin\Debug\ErrorHandlingUserDefined.pdb
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\obj\Debug\ErrorHandlingUserDefined.csproj.AssemblyReference.cache
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\obj\Debug\ErrorHandlingUserDefined.Form1.resources
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\obj\Debug\ErrorHandlingUserDefined.Properties.Resources.resources
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\obj\Debug\ErrorHandlingUserDefined.csproj.GenerateResource.cache
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\obj\Debug\ErrorHandlingUserDefined.csproj.CoreCompileInputs.cache
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\obj\Debug\ErrorHandlingUserDefined.exe
+D:\solutions visual studio\ErrorHandlingUserDefined\ErrorHandlingUserDefined\obj\Debug\ErrorHandlingUserDefined.pdb
